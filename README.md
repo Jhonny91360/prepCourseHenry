@@ -1,2 +1,2 @@
-# prepCourseHenry
-Iniciando un repositorio para el prepcourse modulo 2 de soyHenry
+Este proyecto es una prueba de como crear un repositorio y crear un clon en mi pc local
+
